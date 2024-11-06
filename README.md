@@ -1,5 +1,7 @@
 **Hotel Booking System**
+
 A console-based hotel booking system that allows users to book rooms, manage bookings, and process payments. The system follows key design patterns to provide a structured, scalable solution for hotel management.
+
 **Features**
 1.Room Booking: 
 Book different room types (Single, Double, Family) with guest recommendations based on room capacity.
