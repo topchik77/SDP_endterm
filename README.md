@@ -72,3 +72,6 @@ Book a room, specifying details such as check-in/out dates, number of guests, br
 View all current bookings.
 Make a payment using the booking ID.
 
+
+
+PRESENTATION  https://www.canva.com/design/DAGVrv306g0/WsuNAdhU7-dbpEcQ6oj6Tg/edit?utm_content=DAGVrv306g0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
